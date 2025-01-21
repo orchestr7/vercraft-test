@@ -1,6 +1,6 @@
 plugins {
     kotlin("jvm") version "2.0.0"
-    id("com.akuleshov7.vercraft.plugin-gradle") version("0.2.0")
+    id("com.akuleshov7.vercraft.plugin-gradle") version("0.3.0")
 }
 
 group = "org.example"
